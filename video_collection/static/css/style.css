@@ -1,7 +1,16 @@
 body {
-    background-color: burlywood;
+    /* background-color: lightsteelblue; */
 }
 
 h2 {
-    color: blue;
+    color: purple;
+}
+
+.navigation {
+    margin: 12px;
+}
+
+.navigation > a {
+    color: orangered;
+    padding-right: 30px;
 }
