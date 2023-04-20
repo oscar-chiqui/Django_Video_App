@@ -7,7 +7,6 @@ Part 1
 Part 2 
 
 ![redirect video_list](https://user-images.githubusercontent.com/60312580/232859845-f202261a-f136-4c3f-a327-7d9a3da512ed.png)
->>>>>>> 13ec26a4b56e66d7b93170770b60bf0f22313148
 
 Final Result "Travel Agency App"
 
