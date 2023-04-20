@@ -1,3 +1,5 @@
+install requirements.txt
+
 # Django_Video_App (Screenshots from the Code )
 
 Part 1 
@@ -11,3 +13,5 @@ Part 2
 Final Result "Travel Agency App"
 
 ![App](https://user-images.githubusercontent.com/60312580/233279960-44f5949f-a4b9-492d-8c51-66c060c19c06.png)
+
+
